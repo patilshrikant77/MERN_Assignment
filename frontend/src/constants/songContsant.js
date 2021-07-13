@@ -1,0 +1,6 @@
+export const SONG_CREATE = "SONG_CREATE";
+export const SONG_UPDATE = "CONCAT_UPDATE";
+export const SONG_DELETE = "SONG_DELETE";
+export const SONG_DELETE_ALL = "SONG_DELETE_ALL";
+export const SONG_FETCH_ALL = "SONG_FETCH_ALL";
+export const JSONDATA_FETCH_ALL = "JSONDATA_FETCH_ALL";
